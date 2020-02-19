@@ -1,4 +1,9 @@
 package com.cg.entity;
+/**
+ * 
+ * @author dell
+ *
+ */
 
 public class Booking {
 	private String bookingId;

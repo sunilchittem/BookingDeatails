@@ -2,6 +2,7 @@ package com.cg.entity;
 
 import java.util.List;
 
+
 public class Theatre {
 	private String theatreId;
 	private String theatreName;

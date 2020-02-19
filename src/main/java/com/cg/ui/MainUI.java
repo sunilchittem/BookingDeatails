@@ -12,7 +12,7 @@ public class MainUI {
 		BookingService ser = new BookingServiceImpl();
 		Booking boking;
 		try {
-			boking = ser.getBooking("11993");
+			boking = ser.getBooking("1110");
 			System.out.println(boking.getBookingId());
 			System.out.println(boking.getNoOfSeats());
 			System.out.println(boking.getShow().getShowName());
